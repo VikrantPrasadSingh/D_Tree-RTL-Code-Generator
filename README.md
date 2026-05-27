@@ -18,8 +18,8 @@ The Python codegen script reads the tree's internal structure (thresholds, featu
 |---|---|
 | Dataset | Wisconsin Breast Cancer (569 samples, 30 features) |
 | Task | Malignant vs Benign classification |
-| Software Accuracy (sklearn) | 95.6% |
-| Hardware Accuracy (Verilog RTL) | 94.7% |
+| Software Accuracy (sklearn) | 94.7% |
+| Hardware Accuracy (Verilog RTL) | 93.8% |
 | Accuracy Loss from Fixed-Point | < 1% |
 | Test Samples Verified | 107 / 114 |
 | Tree Depth | 6 |
